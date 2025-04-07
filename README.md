@@ -1,2 +1,2 @@
 # Tidal
-Tidal Music App for Desktop
+Tidal for Windows 
